@@ -22,6 +22,8 @@ OOP graphics game spotlighting objects for user interaction that includes sound.
 ### Calculator
 OOP graphics calculator spotlighting user interation and continuous input and outputs.
 
+![Calculator Mock-up](https://github.com/Daniel71529/ProgrammingPortfolio/blob/main/images/Mock.jpg?raw=true)
+
 ![Calculator](https://github.com/Daniel71529/ProgrammingPortfolio/blob/main/images/Calc.png?raw=true)
 
 [Source Code](https://github.com/Daniel71529/ProgrammingPortfolio/blob/main/src/CalculatorKeyboard.zip)
