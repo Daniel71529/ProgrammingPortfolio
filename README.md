@@ -1,11 +1,12 @@
 # Daniel Luo | Programming Portfolio
+Skyline High School Computer Programming 1
 
 ## Certifications
 * Programming 1 US0E Certification
 
-## Group Project
+## Group Project (2023-24)
 
-## Individual Project
+## Individual Project (2023-24)
 
 ### SpaceGame
 OOP graphics game spotlighting objects for user interaction that includes sound.
