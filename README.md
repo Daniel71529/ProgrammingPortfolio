@@ -5,6 +5,8 @@ Skyline High School Computer Programming 1
 * Programming 1 US0E Certification
 
 ## Group Project (2023-24)
+Python 3 BlackJack-like game, with dynamic graphics using pygame.
+[https://github.com/Daniel71529/Blackjacks](https://github.com/Daniel71529/Blackjacks)
 
 ## Individual Project (2023-24)
 
