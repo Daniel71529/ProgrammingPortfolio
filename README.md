@@ -1,4 +1,4 @@
-# Daniel Luo | Programming Portfolio
+# Daniel Luo | Programming Portfolio | dluo71529@gmail.com
 Skyline High School Computer Programming 1
 
 ## Certifications
