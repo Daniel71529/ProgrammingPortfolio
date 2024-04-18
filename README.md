@@ -6,8 +6,8 @@ Skyline High School Computer Programming 1
 
 ## Group Project (2023-24)
 Python 3 BlackJack-like game, with dynamic graphics using pygame.
-
-[https://github.com/Daniel71529/Blackjacks](https://github.com/Daniel71529/Blackjacks)
+![Running App](https://github.com/Daniel71529/ProgrammingPortfolio/blob/main/images/SG1.png?raw=true)
+![Github](https://github.com/Daniel71529/Blackjacks)
 
 ## Individual Project (2023-24)
 
