@@ -4,17 +4,17 @@ Skyline High School Computer Programming 1
 ## Certifications
 * Programming 1 US0E Certification
 
-## Individual Project (2024)
-Python 3 text based adventure game, with multiple paths and characters
+## Individual Project - MouseMousse(2024)
+Python 3 text based adventure game, with multiple paths and characters, where you play as a mouse looking for the legendary mousse, battling enemies along the way.
 
-![Github](https://github.com/Daniel71529/MouseMousse)
+![Github repository](https://github.com/Daniel71529/MouseMousse)
 
-## Group Project (2023-24)
-Python 3 BlackJack-like game, with dynamic graphics using pygame.
+## Group Project - Vingt et un(2023-24)
+Python 3 BlackJack-like game, with dynamic graphics using pygame with the capability to bet, stand and playing against a dealer.
 
 ![Running App](https://github.com/Daniel71529/ProgrammingPortfolio/blob/main/images/DanielRun.png?raw=true)
 
-![Github](https://github.com/Daniel71529/Blackjacks)
+![Github repository](https://github.com/Daniel71529/Blackjacks)
 
 ## Individual Project (2023-24)
 
