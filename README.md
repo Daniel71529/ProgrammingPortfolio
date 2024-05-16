@@ -4,6 +4,8 @@ Skyline High School Computer Programming 1
 ## Certifications
 * Programming 1 US0E Certification
 ![image](https://github.com/Daniel71529/ProgrammingPortfolio/assets/142557105/c0805146-67f7-476d-8d9b-33795b152062)
+* Programming 2 Python Certification
+![image](https://github.com/Daniel71529/ProgrammingPortfolio/assets/142557105/332f074c-3125-4c71-bfa0-0c6dd1ad312a)
 
 ## Individual Project - MouseMousse(2024)
 Python 3 text based adventure game, with multiple paths and characters, where you play as a mouse looking for the legendary mousse, battling enemies along the way.
